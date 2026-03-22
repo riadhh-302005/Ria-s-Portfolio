@@ -1,59 +1,62 @@
-# 🌐 Animated Portfolio Website
+🌐 Ria's Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Welcome to my personal portfolio website built using modern web technologies. This project showcases my skills, projects, and experience as a Full Stack Developer.
 
-## 🚀 Live Demo
+📌 About the Project
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+This is a responsive and interactive portfolio website designed to highlight my:
 
-## 🛠️ Tech Stack
+Technical skills
+Projects
+Experience
+Contact information
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+The goal of this project is to create a clean and professional online presence for recruiters and developers.
 
-## 📁 Features
+🛠️ Tech Stack
+Frontend: React.js, Vite
+Styling: CSS, Tailwind CSS
+Animations & UI: Modern responsive design
+Version Control: Git & GitHub
+✨ Features
+Responsive design for all devices 📱💻
+Smooth navigation with modern UI
+Sections for About, Skills, Projects, Experience, Contact
+Clean and minimal design
+Fast performance using Vite
+📂 Project Structure
+src/
+ ├── components/
+ ├── assets/
+ ├── constants.js
+ ├── App.jsx
+ ├── main.jsx
+⚙️ Installation & Setup
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+Clone the repository:
 
+git clone https://github.com/riadhh-302005/Ria-s-Portfolio.git
 
-## 🧑‍💻 How to Use
+Go to project directory:
 
-### 1. Clone the Repo
+cd Ria-s-Portfolio
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+Install dependencies:
 
-### 2. Install Dependencies
-
-```bash
 npm install
-```
 
-### 3. Run the App
+Run the development server:
 
-```bash
-npm start
-```
+npm run dev
 
-### 4. Build for Production
+📬 Contact Me
+📧 Email:30ria10@gmail.com
+💼 LinkedIn:https://www.linkedin.com/in/ria-dhawan-a8a684294/
+🖥️ GitHub: https://github.com/riadhh-302005
 
-```bash
-npm run build
-```
+If you like this project, give it a ⭐ on GitHub!
 
-## 📹 YouTube Tutorial
+🙋‍♀️ Author
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+Ria Dhawan
+Full Stack Developer
