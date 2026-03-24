@@ -34,6 +34,7 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 import propertyImg from "./assets/work_logo/property.png";
 import medicareImg from "./assets/work_logo/medicare.png";
+import pizzaImg from "./assets/work_logo/pizza.png";
 
 // Experience Section Logo's
 import webverseLogo from './assets/company_logo/webverse_logo.png';
@@ -195,7 +196,23 @@ export const SkillsInfo = [
       "JWT Auth",
       "REST APIs",
     ],
-    github: "https://github.com/riadhh-302005/pizza-website", 
+    github: "https://github.com/riadhh-302005/property-management-", 
     webapp: "https://property-management-five-silk.vercel.app/",
   },
+  {
+  id: 2,
+  title: "Pizza Website",
+  description:
+    "Developed a responsive pizza ordering website using React.js with modern UI design. Implemented routing using React Router, reusable components, and interactive menu display to enhance user experience. Focused on clean UI/UX and smooth navigation.",
+  image: pizzaImg, 
+  tags: [
+    "React.js",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "React Router",
+  ],
+  github: "https://github.com/riadhh-302005/pizza-website",
+  webapp: "https://pizza-website-six-rouge.vercel.app/",
+ },
 ]; 
