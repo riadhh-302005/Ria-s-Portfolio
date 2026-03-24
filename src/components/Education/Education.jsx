@@ -54,7 +54,7 @@ const Education = () => {
 
               {/* Grade */}
               <p className="mt-4 text-gray-400 font-bold">
-                Grade: {edu.grade}
+                {edu.grade}
               </p>
 
               {/* Description */}

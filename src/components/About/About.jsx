@@ -43,7 +43,7 @@ const About = () => {
           <p className="text-base sm:text-lg text-gray-400 mb-10 mt-6 leading-relaxed">
             I am a passionate full-stack web developer with hands-on experience
             in building modern and scalable web applications.I specialize in
-            the MERN stack and enjoy creating responsive with efficient
+            the MERN stack and enjoy creating responsive UI with efficient
             backend systems. I have worked on real-world projects involving
             authentication, APIs, and database management. My goal is to 
             develop impactful digital solutions that provide seamless user experiences.

@@ -130,21 +130,6 @@ export const SkillsInfo = [
       "Competitive Programming",
     ],
   },
-  {
-    id: 2,
-    role: "Full-Stack Development Projects",
-    company: "Personal & Academic Projects",
-    date: "2023 - Present",
-    desc: "Built and deployed multiple full-stack web applications using the MERN stack, implementing authentication, REST APIs, and responsive UI to solve real-world problems.",
-    skills: [
-      "React JS",
-      "Node JS",
-      "MongoDB",
-      "Express JS",
-      "Tailwind CSS",
-      "JWT / Clerk Auth",
-    ],
-  },
 ];
   
   export const education = [
