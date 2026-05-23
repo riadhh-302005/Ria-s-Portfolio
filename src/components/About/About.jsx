@@ -51,7 +51,7 @@ const About = () => {
 
           {/* Download CV Button */}
           <a
-            href="https://docs.google.com/document/d/1_YDKcO3SFjyhu7rG7W0Pn82av6pA5gMOR7eXofpCk4I/export?format=pdf"
+            href="https://drive.google.com/uc?export=download&id=1GYOo4mQzpd-RNcPjlr88TLbVsBpIlcLK"
             download="Ria_Dhawan_CV.pdf"
             className="inline-block text-white py-3 px-8 rounded-full mt-4 text-lg font-bold transition duration-300 transform hover:scale-105 hover:shadow-[0_0_30px_#8245ec]"
             style={{

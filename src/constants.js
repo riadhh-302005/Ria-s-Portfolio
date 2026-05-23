@@ -122,7 +122,7 @@ export const SkillsInfo = [
     role: "DSA Problem Solver",
     company: "LeetCode, Codeforces & Other Platforms",
     date: "Ongoing",
-    desc: "Solved 200+ Data Structures and Algorithms problems across platforms like LeetCode and Codeforces, strengthening problem-solving skills, logical thinking, and coding efficiency.",
+    desc: "Solved 250+ Data Structures and Algorithms problems across platforms like LeetCode and Codeforces, strengthening problem-solving skills, logical thinking, and coding efficiency.",
     skills: [
       "C++",
       "Java",
@@ -139,7 +139,7 @@ export const SkillsInfo = [
     img: "", // you can remove or keep empty if not using images
     school: "Lovely Professional University, Punjab",
     date: "August 2023 - Present",
-    grade: "7.87 CGPA",
+    grade: "8.03 CGPA",
     desc: "Currently pursuing Bachelor of Technology in Computer Science and Engineering. Gaining strong knowledge in software development, data structures, algorithms, and full-stack web technologies. Actively working on real-world projects using MERN stack and improving problem-solving skills.",
     degree: "Bachelor of Technology - Computer Science and Engineering",
   },
